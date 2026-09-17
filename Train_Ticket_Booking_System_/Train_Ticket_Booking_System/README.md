@@ -154,19 +154,5 @@ Login stores `userId` in the HTTP session.
 
 `DELETE /train-booking/api/bookings/1`
 
-## Important interview topics
 
-- Why use DAO?
-- Why PreparedStatement?
-- Where is the transaction?
-- Why BCrypt?
-- Why use HTTP session?
-- Why normalize train/station/seat tables?
-- What happens when two users book the same seat?
-- Why commit only after both booking and seat update succeed?
-- Why rollback on exception?
-- Difference between Statement and PreparedStatement
-- Checked vs unchecked exceptions
-- Servlet lifecycle
-- Session vs request scope
-- JDBC resource management
+
